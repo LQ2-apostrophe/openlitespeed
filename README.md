@@ -1,33 +1,18 @@
-OpenLiteSpeed Web Server
-========
+# OpenLiteSpeed Edgy Web Server
 
-Description
---------
+Developed by **LQ2'** ([Website](https://www.LQ2music.com) | [Blog](https://noisystream.LQ2music.com)). Contributions are welcome.
 
-OpenLiteSpeed is a high-performance, lightweight, open source HTTP server developed and copyrighted by 
-LiteSpeed Technologies. Users are free to download, use, distribute, and modify OpenLiteSpeed and its 
-source code in accordance with the precepts of the GPLv3 license.
+## Description
 
-This is the official repository for OpenLiteSpeed's source code. It is maintained byLiteSpeed 
-Technologies.
+OpenLiteSpeed is a high-performance, lightweight, open-sourced HTTP server developed and copyrighted by LiteSpeed Technologies. Users are free to download, use, distribute, and modify OpenLiteSpeed and its source code in accordance with the precepts of the GPLv3 license.
 
-Documentation
---------
+**OpenLiteSpeed Edgy** is my customized version of OpenLiteSpeed. The aim is to make this version as edgy as possible:
+- Better HTTP/2 protocol support.
+- Experimental QUIC protocol support.
+- Wider selection of SSL ciphers.
+- And up-to-date with newer web and cryptography technologies.
 
-Users can find all OpenLiteSpeed documentation on the [OpenLiteSpeed site](http://open.litespeedtech.com), 
-but here are some quick links to important parts of the site:
+I hope this version will get more attention from LiteSpeed Technologies. The official repository of OpenLiteSpeed is [here](https://github.com/litespeedtech/openlitespeed).
 
-[Installation](http://open.litespeedtech.com/mediawiki/index.php/Help:Installation)
-
-[Configuration](http://open.litespeedtech.com/mediawiki/index.php/Help:Configuration)
-
-[Road map](http://open.litespeedtech.com/mediawiki/index.php/Road_Map)
-
-[Release log](http://open.litespeedtech.com/mediawiki/index.php/Release_Log/1.x)
-
-Get in Touch
---------
-
-OpenLiteSpeed has a [Google Group](https://groups.google.com/forum/#!forum/openlitespeed-development). If 
-you find a bug, want to request new features, or just want to talk about OpenLiteSpeed, this is the place
-to do it.
+## Documentation and development
+Please refer to the [wiki of this repository](https://github.com/LQ2-apostrophe/openlitespeed-edgy/wiki) for more information.
